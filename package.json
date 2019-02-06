@@ -1,0 +1,19 @@
+{
+  "name": "my_first_node_project",
+  "version": "1.0.0",
+  "description": "My first node project.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016\u0016\u0016https://github.com/stellaxxy/my_first_node_project.git"
+  },
+  "author": "Stella Hsin",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
